@@ -1,6 +1,6 @@
 # Validador de Cartão de Crédito
 
-Este repositório contém um código em JavaScript para validar números de cartões de crédito e identificar a bandeira do cartão.
+Este repositório contém um código em JavaScript para validar números de cartões de crédito e identificar a bandeira do cartão. Faz parte do Bootcamp Microsoft AI for Tech - GitHub Copilot em parceria com a DIO (Digital Innovation One)
 
 ## 📌 Funcionalidades
 
